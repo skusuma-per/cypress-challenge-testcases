@@ -1,0 +1,7 @@
+{
+
+    "baseUrl": "http://hobsons.com",
+    "defaultCommandTimeout" : 1000,
+    "integrationFolder": "cypress/integration"
+   
+}
